@@ -20,19 +20,19 @@
 
 Sentence Fragments
 
-语法知识 英国文化协会语法知识
+语法知识 [英国文化协会语法知识]
 
-阅读资料
+[阅读资料]
 
 
 
 每周一书 ：
 
-The Power of Habit    下载
+The Power of Habit    [下载]
 
 每周一句 ：
 
-Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible. (Francis of Assisi)
+> Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible. (Francis of Assisi)
 
 
 
@@ -44,8 +44,8 @@ BBC 英语学习
 
 死亡诗社（Dead Poets Society）腾讯视频
 
-           "Learn to think for yourselves again. No matter what anybody tells you, words and ideas can change the world"
+> "Learn to think for yourselves again. No matter what anybody tells you, words and ideas can change the world"
 
 New York Times  Best Sellers  April
 
-链接：http://pan.baidu.com/s/1c0wDsly 密码：y33p
+[链接](http://pan.baidu.com/s/1c0wDsly) 密码：y33p
