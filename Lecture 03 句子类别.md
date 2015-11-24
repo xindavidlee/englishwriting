@@ -4,30 +4,30 @@
 
 ## 词类和句法
 
-1. 简单句
+*1. 简单句*
 
-2. 并列句
+*2. 并列句*
 
-3. 复杂句
+*3. 复杂句*
 
-4. 常见句子错误类型
+*4. 常见句子错误类型*
 
 
 
 ## 补充材料：
 
-加州大学伯克利分校Maggie Sokolik博士讲授的 Principles of WrittenEnglish , Part 1  中的Week 2  Sentences and Paragraphs
+- 加州大学伯克利分校Maggie Sokolik博士讲授的 [Principles of WrittenEnglish , Part 1](https://courses.edx.org/courses/BerkeleyX%2FColWri_2.1x%2F3T2014/info)  中的Week 2  Sentences and Paragraphs
 
-Sentence Fragments
+- [Sentence Fragments](http://www.roanestate.edu/owl/Sentence-Fragments.html)
 
-## 语法知识 [英国文化协会语法知识]
+## 语法知识 [英国文化协会语法知识](http://learnenglish.britishcouncil.org/en/grammar-and-vocabulary)
 
 ## [阅读资料]
 
 
 - 每周一书 ：
 
-> The Power of Habit    [下载]
+> The Power of Habit    [下载](http://pan.baidu.com/s/1gdH5Xi7)
 
 - 每周一句 ：
 
@@ -37,11 +37,11 @@ Sentence Fragments
 
 - 每周一网：
 
-> BBC 英语学习
+> [BBC 英语学习](http://www.bbc.co.uk/learningenglish/)
 
 - 每周一影：
 
-> 死亡诗社（Dead Poets Society）腾讯视频
+> [死亡诗社（Dead Poets Society）](http://v.qq.com/page/x/0/b/x00144y37ub.html)
 
 > "Learn to think for yourselves again. No matter what anybody tells you, words and ideas can change the world"
 
